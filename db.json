@@ -1,0 +1,34 @@
+{
+  "barang": [
+    {
+      "id": 1,
+      "namaBarang": "Sharp updated",
+      "stokBarang": 10,
+      "Harga": 1000000
+    },
+    {
+      "id": 2,
+      "namaBarang": "Aqua ",
+      "stokBarang": 10,
+      "Harga": 2000000
+    },
+    {
+      "id": 3,
+      "namaBarang": "LG",
+      "stokBarang": 10,
+      "Harga": 3000000
+    },
+    {
+      "id": 4,
+      "namaBarang": "Samsung",
+      "stokBarang": 10,
+      "Harga": 4000000
+    },
+    {
+      "id": 5,
+      "namaBarang": "Panasonic",
+      "stokBarang": 10,
+      "Harga": 5000000
+    }
+  ]
+}
